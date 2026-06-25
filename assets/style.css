@@ -1,0 +1,30 @@
+
+[data-testid="stMetricLabel"] p {
+    font-size: 22px !important;
+    font-weight: 500 !important;
+}
+            
+[data-testid="stMetricValue"] {
+    font-weight: 650 !important;
+}
+
+/* Page Navigation */
+[data-testid="stSidebarNav"] * {
+font-size: 22px !important;
+}
+                    
+/* Labels */
+label[data-testid="stWidgetLabel"] p{
+    font-size:18px !important;
+    font-weight:600;
+}
+
+/* Selected Value */
+div[data-baseweb="select"] > div{
+    font-size:18px !important;
+}
+
+/* Dropdown Items */
+div[role="listbox"] ul li{
+    font-size:18px !important;
+}

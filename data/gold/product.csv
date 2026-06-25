@@ -1,0 +1,296 @@
+product_key,product_name,category,subcategory,product_line,maintenance,cost,added_date
+BB-7421,LL Bottom Bracket,Components,Bottom Brackets,N/A,Yes,24.0,2021-06-30
+BB-8107,ML Bottom Bracket,Components,Bottom Brackets,N/A,Yes,45.0,2021-03-04
+BB-9108,HL Bottom Bracket,Components,Bottom Brackets,N/A,Yes,54.0,2024-11-10
+BC-M005,Mountain Bottle Cage,Accessories,Bottles and Cages,Mountain,No,4.0,2021-01-02
+BC-R205,Road Bottle Cage,Accessories,Bottles and Cages,Road,No,3.0,2021-01-13
+BK-M18B-40,Mountain-500 Black- 40,Bikes,Mountain Bikes,Mountain,Yes,295.0,2021-04-24
+BK-M18B-42,Mountain-500 Black- 42,Bikes,Mountain Bikes,Mountain,Yes,295.0,2021-02-08
+BK-M18B-44,Mountain-500 Black- 44,Bikes,Mountain Bikes,Mountain,Yes,295.0,2021-04-09
+BK-M18B-48,Mountain-500 Black- 48,Bikes,Mountain Bikes,Mountain,Yes,295.0,2021-06-07
+BK-M18B-52,Mountain-500 Black- 52,Bikes,Mountain Bikes,Mountain,Yes,295.0,2021-02-16
+BK-M18S-40,Mountain-500 Silver- 40,Bikes,Mountain Bikes,Mountain,Yes,308.0,2021-03-11
+BK-M18S-42,Mountain-500 Silver- 42,Bikes,Mountain Bikes,Mountain,Yes,308.0,2021-05-01
+BK-M18S-44,Mountain-500 Silver- 44,Bikes,Mountain Bikes,Mountain,Yes,308.0,2021-03-03
+BK-M18S-48,Mountain-500 Silver- 48,Bikes,Mountain Bikes,Mountain,Yes,308.0,2021-03-09
+BK-M18S-52,Mountain-500 Silver- 52,Bikes,Mountain Bikes,Mountain,Yes,308.0,2021-01-24
+BK-M38S-38,Mountain-400-W Silver- 38,Bikes,Mountain Bikes,Mountain,Yes,420.0,2021-02-01
+BK-M38S-40,Mountain-400-W Silver- 40,Bikes,Mountain Bikes,Mountain,Yes,420.0,2021-01-10
+BK-M38S-42,Mountain-400-W Silver- 42,Bikes,Mountain Bikes,Mountain,Yes,420.0,2021-02-11
+BK-M38S-46,Mountain-400-W Silver- 46,Bikes,Mountain Bikes,Mountain,Yes,420.0,2021-01-30
+BK-M47B-38,Mountain-300 Black- 38,Bikes,Mountain Bikes,Mountain,Yes,598.0,2021-07-25
+BK-M47B-40,Mountain-300 Black- 40,Bikes,Mountain Bikes,Mountain,Yes,598.0,2023-08-26
+BK-M47B-44,Mountain-300 Black- 44,Bikes,Mountain Bikes,Mountain,Yes,598.0,2024-03-03
+BK-M47B-48,Mountain-300 Black- 48,Bikes,Mountain Bikes,Mountain,Yes,598.0,2021-02-01
+BK-M68B-38,Mountain-200 Black- 38,Bikes,Mountain Bikes,Mountain,Yes,1106.0,2021-01-05
+BK-M68B-42,Mountain-200 Black- 42,Bikes,Mountain Bikes,Mountain,Yes,1252.0,2021-01-30
+BK-M68B-46,Mountain-200 Black- 46,Bikes,Mountain Bikes,Mountain,Yes,1106.0,2021-01-14
+BK-M68S-38,Mountain-200 Silver- 38,Bikes,Mountain Bikes,Mountain,Yes,1118.0,2021-02-03
+BK-M68S-42,Mountain-200 Silver- 42,Bikes,Mountain Bikes,Mountain,Yes,1118.0,2021-01-19
+BK-M68S-46,Mountain-200 Silver- 46,Bikes,Mountain Bikes,Mountain,Yes,1118.0,2021-04-02
+BK-M82B-38,Mountain-100 Black- 38,Bikes,Mountain Bikes,Mountain,Yes,1898.0,2021-08-11
+BK-M82B-42,Mountain-100 Black- 42,Bikes,Mountain Bikes,Mountain,Yes,1898.0,2021-05-08
+BK-M82B-44,Mountain-100 Black- 44,Bikes,Mountain Bikes,Mountain,Yes,1898.0,2021-01-03
+BK-M82B-48,Mountain-100 Black- 48,Bikes,Mountain Bikes,Mountain,Yes,1898.0,2021-01-30
+BK-M82S-38,Mountain-100 Silver- 38,Bikes,Mountain Bikes,Mountain,Yes,1912.0,2021-03-21
+BK-M82S-42,Mountain-100 Silver- 42,Bikes,Mountain Bikes,Mountain,Yes,1912.0,2021-01-18
+BK-M82S-44,Mountain-100 Silver- 44,Bikes,Mountain Bikes,Mountain,Yes,1912.0,2021-07-05
+BK-M82S-48,Mountain-100 Silver- 48,Bikes,Mountain Bikes,Mountain,Yes,1912.0,2021-02-06
+BK-R19B-44,Road-750 Black- 44,Bikes,Road Bikes,Road,Yes,344.0,2021-01-03
+BK-R19B-48,Road-750 Black- 48,Bikes,Road Bikes,Road,Yes,344.0,2021-02-05
+BK-R19B-52,Road-750 Black- 52,Bikes,Road Bikes,Road,Yes,344.0,2021-01-16
+BK-R19B-58,Road-750 Black- 58,Bikes,Road Bikes,Road,Yes,344.0,2021-01-29
+BK-R50B-44,Road-650 Black- 44,Bikes,Road Bikes,Road,Yes,487.0,2021-05-02
+BK-R50B-48,Road-650 Black- 48,Bikes,Road Bikes,Road,Yes,413.0,2021-02-25
+BK-R50B-52,Road-650 Black- 52,Bikes,Road Bikes,Road,Yes,487.0,2021-02-02
+BK-R50B-58,Road-650 Black- 58,Bikes,Road Bikes,Road,Yes,413.0,2021-02-23
+BK-R50B-60,Road-650 Black- 60,Bikes,Road Bikes,Road,Yes,413.0,2021-02-15
+BK-R50B-62,Road-650 Black- 62,Bikes,Road Bikes,Road,Yes,413.0,2021-02-17
+BK-R50R-44,Road-650 Red- 44,Bikes,Road Bikes,Road,Yes,487.0,2021-02-06
+BK-R50R-48,Road-650 Red- 48,Bikes,Road Bikes,Road,Yes,487.0,2021-04-11
+BK-R50R-52,Road-650 Red- 52,Bikes,Road Bikes,Road,Yes,487.0,2021-02-11
+BK-R50R-58,Road-650 Red- 58,Bikes,Road Bikes,Road,Yes,487.0,2021-01-31
+BK-R50R-60,Road-650 Red- 60,Bikes,Road Bikes,Road,Yes,487.0,2021-01-10
+BK-R50R-62,Road-650 Red- 62,Bikes,Road Bikes,Road,Yes,487.0,2021-01-16
+BK-R64Y-38,Road-550-W Yellow- 38,Bikes,Road Bikes,Road,Yes,713.0,2021-01-24
+BK-R64Y-40,Road-550-W Yellow- 40,Bikes,Road Bikes,Road,Yes,606.0,2021-01-02
+BK-R64Y-42,Road-550-W Yellow- 42,Bikes,Road Bikes,Road,Yes,606.0,2021-01-12
+BK-R64Y-44,Road-550-W Yellow- 44,Bikes,Road Bikes,Road,Yes,713.0,2021-02-10
+BK-R64Y-48,Road-550-W Yellow- 48,Bikes,Road Bikes,Road,Yes,606.0,2021-01-02
+BK-R68R-44,Road-450 Red- 44,Bikes,Road Bikes,Road,Yes,885.0,2021-03-05
+BK-R68R-48,Road-450 Red- 48,Bikes,Road Bikes,Road,Yes,885.0,2023-08-27
+BK-R68R-52,Road-450 Red- 52,Bikes,Road Bikes,Road,Yes,885.0,2023-11-24
+BK-R68R-58,Road-450 Red- 58,Bikes,Road Bikes,Road,Yes,885.0,2024-11-26
+BK-R68R-60,Road-450 Red- 60,Bikes,Road Bikes,Road,Yes,885.0,2024-07-04
+BK-R79Y-40,Road-350-W Yellow- 40,Bikes,Road Bikes,Road,Yes,1083.0,2021-01-11
+BK-R79Y-42,Road-350-W Yellow- 42,Bikes,Road Bikes,Road,Yes,1083.0,2021-01-07
+BK-R79Y-44,Road-350-W Yellow- 44,Bikes,Road Bikes,Road,Yes,1083.0,2021-04-02
+BK-R79Y-48,Road-350-W Yellow- 48,Bikes,Road Bikes,Road,Yes,1083.0,2021-02-01
+BK-R89B-44,Road-250 Black- 44,Bikes,Road Bikes,Road,Yes,1321.0,2021-01-13
+BK-R89B-48,Road-250 Black- 48,Bikes,Road Bikes,Road,Yes,1321.0,2021-01-12
+BK-R89B-52,Road-250 Black- 52,Bikes,Road Bikes,Road,Yes,1321.0,2021-01-28
+BK-R89B-58,Road-250 Black- 58,Bikes,Road Bikes,Road,Yes,1321.0,2021-01-29
+BK-R89R-44,Road-250 Red- 44,Bikes,Road Bikes,Road,Yes,1519.0,2021-01-24
+BK-R89R-48,Road-250 Red- 48,Bikes,Road Bikes,Road,Yes,1519.0,2021-01-16
+BK-R89R-52,Road-250 Red- 52,Bikes,Road Bikes,Road,Yes,1519.0,2021-01-23
+BK-R89R-58,Road-250 Red- 58,Bikes,Road Bikes,Road,Yes,1321.0,2021-01-21
+BK-R93R-44,Road-150 Red- 44,Bikes,Road Bikes,Road,Yes,2171.0,2021-01-17
+BK-R93R-48,Road-150 Red- 48,Bikes,Road Bikes,Road,Yes,2171.0,2021-01-20
+BK-R93R-52,Road-150 Red- 52,Bikes,Road Bikes,Road,Yes,2171.0,2021-02-08
+BK-R93R-56,Road-150 Red- 56,Bikes,Road Bikes,Road,Yes,2171.0,2021-03-12
+BK-R93R-62,Road-150 Red- 62,Bikes,Road Bikes,Road,Yes,2171.0,2021-02-16
+BK-T18U-44,Touring-3000 Blue- 44,Bikes,Touring Bikes,Touring,Yes,461.0,2021-05-18
+BK-T18U-50,Touring-3000 Blue- 50,Bikes,Touring Bikes,Touring,Yes,461.0,2021-02-10
+BK-T18U-54,Touring-3000 Blue- 54,Bikes,Touring Bikes,Touring,Yes,461.0,2021-01-16
+BK-T18U-58,Touring-3000 Blue- 58,Bikes,Touring Bikes,Touring,Yes,461.0,2021-05-24
+BK-T18U-62,Touring-3000 Blue- 62,Bikes,Touring Bikes,Touring,Yes,461.0,2021-01-25
+BK-T18Y-44,Touring-3000 Yellow- 44,Bikes,Touring Bikes,Touring,Yes,461.0,2021-01-14
+BK-T18Y-50,Touring-3000 Yellow- 50,Bikes,Touring Bikes,Touring,Yes,461.0,2021-02-25
+BK-T18Y-54,Touring-3000 Yellow- 54,Bikes,Touring Bikes,Touring,Yes,461.0,2021-01-28
+BK-T18Y-58,Touring-3000 Yellow- 58,Bikes,Touring Bikes,Touring,Yes,461.0,2021-02-07
+BK-T18Y-62,Touring-3000 Yellow- 62,Bikes,Touring Bikes,Touring,Yes,461.0,2021-03-16
+BK-T44U-46,Touring-2000 Blue- 46,Bikes,Touring Bikes,Touring,Yes,755.0,2021-03-29
+BK-T44U-50,Touring-2000 Blue- 50,Bikes,Touring Bikes,Touring,Yes,755.0,2021-04-02
+BK-T44U-54,Touring-2000 Blue- 54,Bikes,Touring Bikes,Touring,Yes,755.0,2021-02-14
+BK-T44U-60,Touring-2000 Blue- 60,Bikes,Touring Bikes,Touring,Yes,755.0,2021-01-28
+BK-T79U-46,Touring-1000 Blue- 46,Bikes,Touring Bikes,Touring,Yes,1482.0,2021-02-01
+BK-T79U-50,Touring-1000 Blue- 50,Bikes,Touring Bikes,Touring,Yes,1482.0,2021-01-05
+BK-T79U-54,Touring-1000 Blue- 54,Bikes,Touring Bikes,Touring,Yes,1482.0,2021-02-01
+BK-T79U-60,Touring-1000 Blue- 60,Bikes,Touring Bikes,Touring,Yes,1482.0,2021-03-27
+BK-T79Y-46,Touring-1000 Yellow- 46,Bikes,Touring Bikes,Touring,Yes,1482.0,2021-02-11
+BK-T79Y-50,Touring-1000 Yellow- 50,Bikes,Touring Bikes,Touring,Yes,1482.0,2021-03-17
+BK-T79Y-54,Touring-1000 Yellow- 54,Bikes,Touring Bikes,Touring,Yes,1482.0,2021-02-16
+BK-T79Y-60,Touring-1000 Yellow- 60,Bikes,Touring Bikes,Touring,Yes,1482.0,2021-01-22
+CA-1098,AWC Logo Cap,Clothing,Caps,Other Sales,No,7.0,2021-01-13
+CH-0234,Chain,Components,Chains,N/A,Yes,9.0,2023-11-09
+CL-9009,Bike Wash - Dissolver,Accessories,Cleaners,Other Sales,Yes,3.0,2021-01-04
+CS-4759,LL Crankset,Components,Cranksets,N/A,Yes,78.0,2022-08-24
+CS-6583,ML Crankset,Components,Cranksets,N/A,Yes,114.0,2021-02-18
+CS-9183,HL Crankset,Components,Cranksets,N/A,Yes,180.0,2023-01-12
+FB-9873,Front Brakes,Components,Brakes,N/A,Yes,47.0,2025-07-24
+FD-2342,Front Derailleur,Components,Derailleurs,N/A,Yes,41.0,2021-06-27
+FE-6654,Fender Set - Mountain,Accessories,Fenders,Mountain,No,8.0,2021-02-01
+FK-1639,LL Fork,Components,Forks,N/A,Yes,66.0,2025-04-18
+FK-5136,ML Fork,Components,Forks,N/A,Yes,78.0,2023-01-22
+FK-9939,HL Fork,Components,Forks,N/A,Yes,102.0,2024-06-28
+FR-M21B-40,LL Mountain Frame - Black- 40,Components,Mountain Frames,Mountain,Yes,137.0,2022-08-05
+FR-M21B-42,LL Mountain Frame - Black- 42,Components,Mountain Frames,Mountain,Yes,137.0,2022-01-11
+FR-M21B-44,LL Mountain Frame - Black- 44,Components,Mountain Frames,Mountain,Yes,137.0,2022-05-05
+FR-M21B-48,LL Mountain Frame - Black- 48,Components,Mountain Frames,Mountain,Yes,137.0,2021-04-18
+FR-M21B-52,LL Mountain Frame - Black- 52,Components,Mountain Frames,Mountain,Yes,137.0,2022-05-21
+FR-M21S-40,LL Mountain Frame - Silver- 40,Components,Mountain Frames,Mountain,Yes,145.0,2021-07-08
+FR-M21S-42,LL Mountain Frame - Silver- 42,Components,Mountain Frames,Mountain,Yes,145.0,2024-04-07
+FR-M21S-44,LL Mountain Frame - Silver- 44,Components,Mountain Frames,Mountain,Yes,145.0,2023-05-27
+FR-M21S-48,LL Mountain Frame - Silver- 48,Components,Mountain Frames,Mountain,Yes,145.0,2022-11-04
+FR-M21S-52,LL Mountain Frame - Silver- 52,Components,Mountain Frames,Mountain,Yes,145.0,2024-10-28
+FR-M63B-38,ML Mountain Frame - Black- 38,Components,Mountain Frames,Mountain,Yes,186.0,2022-03-22
+FR-M63B-40,ML Mountain Frame - Black- 40,Components,Mountain Frames,Mountain,Yes,186.0,2023-10-04
+FR-M63B-44,ML Mountain Frame - Black- 44,Components,Mountain Frames,Mountain,Yes,186.0,2023-05-09
+FR-M63B-48,ML Mountain Frame - Black- 48,Components,Mountain Frames,Mountain,Yes,186.0,2022-12-26
+FR-M63S-38,ML Mountain Frame-W - Silver- 38,Components,Mountain Frames,Mountain,Yes,199.0,2022-08-06
+FR-M63S-40,ML Mountain Frame-W - Silver- 40,Components,Mountain Frames,Mountain,Yes,199.0,2022-08-19
+FR-M63S-42,ML Mountain Frame-W - Silver- 42,Components,Mountain Frames,Mountain,Yes,199.0,2022-01-21
+FR-M63S-46,ML Mountain Frame-W - Silver- 46,Components,Mountain Frames,Mountain,Yes,199.0,2022-11-28
+FR-M94B-38,HL Mountain Frame - Black- 38,Components,Mountain Frames,Mountain,Yes,617.0,2023-04-20
+FR-M94B-42,HL Mountain Frame - Black- 42,Components,Mountain Frames,Mountain,Yes,739.0,2024-11-20
+FR-M94B-44,HL Mountain Frame - Black- 44,Components,Mountain Frames,Mountain,Yes,699.0,2021-07-26
+FR-M94B-46,HL Mountain Frame - Black- 46,Components,Mountain Frames,Mountain,Yes,617.0,2021-04-30
+FR-M94B-48,HL Mountain Frame - Black- 48,Components,Mountain Frames,Mountain,Yes,699.0,2023-08-05
+FR-M94S-38,HL Mountain Frame - Silver- 38,Components,Mountain Frames,Mountain,Yes,661.0,2022-10-15
+FR-M94S-42,HL Mountain Frame - Silver- 42,Components,Mountain Frames,Mountain,Yes,624.0,2021-12-06
+FR-M94S-44,HL Mountain Frame - Silver- 44,Components,Mountain Frames,Mountain,Yes,707.0,2024-04-22
+FR-M94S-46,HL Mountain Frame - Silver- 46,Components,Mountain Frames,Mountain,Yes,747.0,2022-09-30
+FR-M94S-52,HL Mountain Frame - Silver- 48,Components,Mountain Frames,Mountain,Yes,707.0,2022-05-23
+FR-R38B-44,LL Road Frame - Black- 44,Components,Road Frames,Road,Yes,205.0,2022-10-05
+FR-R38B-48,LL Road Frame - Black- 48,Components,Road Frames,Road,Yes,205.0,2022-03-04
+FR-R38B-52,LL Road Frame - Black- 52,Components,Road Frames,Road,Yes,205.0,2021-10-10
+FR-R38B-58,LL Road Frame - Black- 58,Components,Road Frames,Road,Yes,205.0,2021-05-12
+FR-R38B-60,LL Road Frame - Black- 60,Components,Road Frames,Road,Yes,205.0,2023-05-21
+FR-R38B-62,LL Road Frame - Black- 62,Components,Road Frames,Road,Yes,170.0,2021-05-04
+FR-R38R-44,LL Road Frame - Red- 44,Components,Road Frames,Road,Yes,187.0,2022-01-20
+FR-R38R-48,LL Road Frame - Red- 48,Components,Road Frames,Road,Yes,187.0,2024-02-06
+FR-R38R-52,LL Road Frame - Red- 52,Components,Road Frames,Road,Yes,187.0,2023-07-24
+FR-R38R-58,LL Road Frame - Red- 58,Components,Road Frames,Road,Yes,187.0,2022-05-04
+FR-R38R-60,LL Road Frame - Red- 60,Components,Road Frames,Road,Yes,181.0,2024-10-18
+FR-R38R-62,LL Road Frame - Red- 62,Components,Road Frames,Road,Yes,181.0,2021-09-15
+FR-R72R-44,ML Road Frame - Red- 44,Components,Road Frames,Road,Yes,352.0,2024-06-09
+FR-R72R-48,ML Road Frame - Red- 48,Components,Road Frames,Road,Yes,352.0,2023-03-19
+FR-R72R-52,ML Road Frame - Red- 52,Components,Road Frames,Road,Yes,352.0,2022-07-11
+FR-R72R-58,ML Road Frame - Red- 58,Components,Road Frames,Road,Yes,352.0,2022-08-29
+FR-R72R-60,ML Road Frame - Red- 60,Components,Road Frames,Road,Yes,352.0,2023-12-23
+FR-R72Y-38,ML Road Frame-W - Yellow- 38,Components,Road Frames,Road,Yes,300.0,2022-03-28
+FR-R72Y-40,ML Road Frame-W - Yellow- 40,Components,Road Frames,Road,Yes,361.0,2022-11-06
+FR-R72Y-42,ML Road Frame-W - Yellow- 42,Components,Road Frames,Road,Yes,300.0,2022-10-13
+FR-R72Y-44,ML Road Frame-W - Yellow- 44,Components,Road Frames,Road,Yes,361.0,2024-03-24
+FR-R72Y-48,ML Road Frame-W - Yellow- 48,Components,Road Frames,Road,Yes,361.0,2021-07-20
+FR-R92B-44,HL Road Frame - Black- 44,Components,Road Frames,Road,Yes,722.0,2021-11-01
+FR-R92B-48,HL Road Frame - Black- 48,Components,Road Frames,Road,Yes,869.0,2022-12-02
+FR-R92B-52,HL Road Frame - Black- 52,Components,Road Frames,Road,Yes,869.0,2022-08-09
+FR-R92B-58,HL Road Frame - Black- 58,Components,Road Frames,Road,Yes,0.0,2021-04-15
+FR-R92B-62,HL Road Frame - Black- 62,Components,Road Frames,Road,Yes,722.0,2022-12-18
+FR-R92R-44,HL Road Frame - Red- 44,Components,Road Frames,Road,Yes,869.0,2024-07-01
+FR-R92R-48,HL Road Frame - Red- 48,Components,Road Frames,Road,Yes,722.0,2022-01-30
+FR-R92R-52,HL Road Frame - Red- 52,Components,Road Frames,Road,Yes,869.0,2022-04-11
+FR-R92R-56,HL Road Frame - Red- 56,Components,Road Frames,Road,Yes,869.0,2022-12-03
+FR-R92R-58,HL Road Frame - Red- 58,Components,Road Frames,Road,Yes,0.0,2021-04-23
+FR-R92R-62,HL Road Frame - Red- 62,Components,Road Frames,Road,Yes,869.0,2023-08-17
+FR-T67U-44,LL Touring Frame - Blue- 44,Components,Touring Frames,Touring,Yes,200.0,2022-12-18
+FR-T67U-50,LL Touring Frame - Blue- 50,Components,Touring Frames,Touring,Yes,200.0,2023-06-30
+FR-T67U-54,LL Touring Frame - Blue- 54,Components,Touring Frames,Touring,Yes,200.0,2021-09-08
+FR-T67U-58,LL Touring Frame - Blue- 58,Components,Touring Frames,Touring,Yes,200.0,2024-09-30
+FR-T67U-62,LL Touring Frame - Blue- 62,Components,Touring Frames,Touring,Yes,200.0,2023-04-24
+FR-T67Y-44,LL Touring Frame - Yellow- 44,Components,Touring Frames,Touring,Yes,200.0,2024-11-08
+FR-T67Y-50,LL Touring Frame - Yellow- 50,Components,Touring Frames,Touring,Yes,200.0,2022-12-17
+FR-T67Y-54,LL Touring Frame - Yellow- 54,Components,Touring Frames,Touring,Yes,200.0,2024-03-11
+FR-T67Y-58,LL Touring Frame - Yellow- 58,Components,Touring Frames,Touring,Yes,200.0,2024-10-02
+FR-T67Y-62,LL Touring Frame - Yellow- 62,Components,Touring Frames,Touring,Yes,200.0,2022-01-14
+FR-T98U-46,HL Touring Frame - Blue- 46,Components,Touring Frames,Touring,Yes,602.0,2024-06-28
+FR-T98U-50,HL Touring Frame - Blue- 50,Components,Touring Frames,Touring,Yes,602.0,2021-06-26
+FR-T98U-54,HL Touring Frame - Blue- 54,Components,Touring Frames,Touring,Yes,602.0,2022-06-27
+FR-T98U-60,HL Touring Frame - Blue- 60,Components,Touring Frames,Touring,Yes,602.0,2021-01-23
+FR-T98Y-46,HL Touring Frame - Yellow- 46,Components,Touring Frames,Touring,Yes,602.0,2024-08-18
+FR-T98Y-50,HL Touring Frame - Yellow- 50,Components,Touring Frames,Touring,Yes,602.0,2023-02-24
+FR-T98Y-54,HL Touring Frame - Yellow- 54,Components,Touring Frames,Touring,Yes,602.0,2021-07-31
+FR-T98Y-60,HL Touring Frame - Yellow- 60,Components,Touring Frames,Touring,Yes,602.0,2023-03-20
+FW-M423,LL Mountain Front Wheel,Components,Wheels,Mountain,Yes,27.0,2025-12-20
+FW-M762,ML Mountain Front Wheel,Components,Wheels,Mountain,Yes,93.0,2022-06-29
+FW-M928,HL Mountain Front Wheel,Components,Wheels,Mountain,Yes,133.0,2022-01-28
+FW-R623,LL Road Front Wheel,Components,Wheels,Road,Yes,38.0,2023-07-21
+FW-R762,ML Road Front Wheel,Components,Wheels,Road,Yes,110.0,2021-03-11
+FW-R820,HL Road Front Wheel,Components,Wheels,Road,Yes,147.0,2021-09-22
+FW-T905,Touring Front Wheel,Components,Wheels,Touring,Yes,97.0,2025-11-04
+GL-F110-L,Full-Finger Gloves- L,Clothing,Gloves,Mountain,No,16.0,2024-02-06
+GL-F110-M,Full-Finger Gloves- M,Clothing,Gloves,Mountain,No,16.0,2023-10-07
+GL-F110-S,Full-Finger Gloves- S,Clothing,Gloves,Mountain,No,16.0,2023-07-15
+GL-H102-L,Half-Finger Gloves- L,Clothing,Gloves,Other Sales,No,9.0,2021-02-21
+GL-H102-M,Half-Finger Gloves- M,Clothing,Gloves,Other Sales,No,9.0,2021-01-11
+GL-H102-S,Half-Finger Gloves- S,Clothing,Gloves,Other Sales,No,9.0,2021-01-20
+HB-M243,LL Mountain Handlebars,Components,Handlebars,Mountain,No,18.0,2025-11-23
+HB-M763,ML Mountain Handlebars,Components,Handlebars,Mountain,No,27.0,2021-02-20
+HB-M918,HL Mountain Handlebars,Components,Handlebars,Mountain,No,49.0,2024-03-23
+HB-R504,LL Road Handlebars,Components,Handlebars,Road,No,20.0,2024-09-19
+HB-R720,ML Road Handlebars,Components,Handlebars,Road,No,27.0,2022-12-07
+HB-R956,HL Road Handlebars,Components,Handlebars,Road,No,53.0,2023-09-03
+HB-T721,LL Touring Handlebars,Components,Handlebars,Touring,No,20.0,2024-07-22
+HB-T928,HL Touring Handlebars,Components,Handlebars,Touring,No,41.0,2024-04-13
+HL-U509,Sport-100 Helmet- Black,Accessories,Helmets,Other Sales,Yes,13.0,2021-01-24
+HL-U509-B,Sport-100 Helmet- Blue,Accessories,Helmets,Other Sales,Yes,14.0,2021-01-15
+HL-U509-R,Sport-100 Helmet- Red,Accessories,Helmets,Other Sales,Yes,12.0,2021-01-07
+HS-0296,LL Headset,Components,Headsets,N/A,No,15.0,2025-12-16
+HS-2451,ML Headset,Components,Headsets,N/A,No,45.0,2024-06-20
+HS-3479,HL Headset,Components,Headsets,N/A,No,55.0,2021-09-22
+HY-1023-70,Hydration Pack - 70 oz.,Accessories,Hydration Packs,Other Sales,No,21.0,2021-01-07
+LJ-0192-L,Long-Sleeve Logo Jersey- L,Clothing,Jerseys,Other Sales,No,32.0,2021-01-02
+LJ-0192-M,Long-Sleeve Logo Jersey- M,Clothing,Jerseys,Other Sales,No,38.0,2021-01-23
+LJ-0192-S,Long-Sleeve Logo Jersey- S,Clothing,Jerseys,Other Sales,No,32.0,2021-01-09
+LJ-0192-X,Long-Sleeve Logo Jersey- XL,Clothing,Jerseys,Other Sales,No,32.0,2021-01-11
+LO-C100,Cable Lock,Accessories,Locks,Other Sales,Yes,10.0,2024-09-28
+LT-H902,Headlights - Dual-Beam,Accessories,Lights,Road,Yes,14.0,2025-02-18
+LT-H903,Headlights - Weatherproof,Accessories,Lights,Road,Yes,19.0,2023-08-01
+LT-T990,Taillights - Battery-Powered,Accessories,Lights,Road,Yes,6.0,2023-10-29
+PA-T100,Touring-Panniers- Large,Accessories,Panniers,Touring,No,52.0,2023-11-20
+PD-M282,LL Mountain Pedal,,,Mountain,,18.0,2023-02-22
+PD-M340,ML Mountain Pedal,,,Mountain,,28.0,2025-04-01
+PD-M562,HL Mountain Pedal,,,Mountain,,36.0,2021-08-26
+PD-R347,LL Road Pedal,,,Road,,18.0,2025-03-12
+PD-R563,ML Road Pedal,,,Road,,28.0,2021-06-10
+PD-R853,HL Road Pedal,,,Road,,36.0,2023-08-14
+PD-T852,Touring Pedal,,,Touring,,36.0,2023-11-28
+PK-7098,Patch Kit/8 Patches,Accessories,Tires and Tubes,Other Sales,Yes,1.0,2021-01-15
+PU-0452,Minipump,Accessories,Pumps,Other Sales,Yes,8.0,2022-08-04
+PU-M044,Mountain Pump,Accessories,Pumps,Mountain,Yes,10.0,2024-08-29
+RA-H123,Hitch Rack - 4-Bike,Accessories,Bike Racks,Other Sales,Yes,45.0,2021-01-20
+RB-9231,Rear Brakes,Components,Brakes,N/A,Yes,47.0,2023-07-09
+RD-2308,Rear Derailleur,Components,Derailleurs,N/A,Yes,54.0,2025-09-30
+RW-M423,LL Mountain Rear Wheel,Components,Wheels,Mountain,Yes,39.0,2022-10-10
+RW-M762,ML Mountain Rear Wheel,Components,Wheels,Mountain,Yes,105.0,2023-05-04
+RW-M928,HL Mountain Rear Wheel,Components,Wheels,Mountain,Yes,145.0,2025-11-22
+RW-R623,LL Road Rear Wheel,Components,Wheels,Road,Yes,50.0,2024-01-21
+RW-R762,ML Road Rear Wheel,Components,Wheels,Road,Yes,122.0,2024-08-25
+RW-R820,HL Road Rear Wheel,Components,Wheels,Road,Yes,159.0,2025-08-31
+RW-T905,Touring Rear Wheel,Components,Wheels,Touring,Yes,109.0,2023-10-31
+SB-M891-L,Men's Bib-Shorts- L,Clothing,Bib-Shorts,Other Sales,No,37.0,2025-05-01
+SB-M891-M,Men's Bib-Shorts- M,Clothing,Bib-Shorts,Other Sales,No,37.0,2023-01-03
+SB-M891-S,Men's Bib-Shorts- S,Clothing,Bib-Shorts,Other Sales,No,37.0,2024-08-03
+SE-M236,LL Mountain Seat/Saddle,Components,Saddles,Mountain,No,12.0,2021-12-22
+SE-M798,ML Mountain Seat/Saddle,Components,Saddles,Mountain,No,17.0,2022-09-25
+SE-M940,HL Mountain Seat/Saddle,Components,Saddles,Mountain,No,23.0,2021-11-04
+SE-R581,LL Road Seat/Saddle,Components,Saddles,Road,No,12.0,2022-11-10
+SE-R908,ML Road Seat/Saddle,Components,Saddles,Touring,No,17.0,2021-03-18
+SE-R995,HL Road Seat/Saddle,Components,Saddles,Road,No,23.0,2022-10-01
+SE-T312,LL Touring Seat/Saddle,Components,Saddles,Touring,No,12.0,2022-03-07
+SE-T762,ML Touring Seat/Saddle,Components,Saddles,Touring,No,17.0,2023-10-07
+SE-T924,HL Touring Seat/Saddle,Components,Saddles,Touring,No,23.0,2021-07-05
+SH-M897-L,Men's Sports Shorts- L,Clothing,Shorts,Other Sales,No,25.0,2023-07-27
+SH-M897-M,Men's Sports Shorts- M,Clothing,Shorts,Other Sales,No,25.0,2021-02-28
+SH-M897-S,Men's Sports Shorts- S,Clothing,Shorts,Other Sales,No,25.0,2021-01-15
+SH-M897-X,Men's Sports Shorts- XL,Clothing,Shorts,Other Sales,No,25.0,2021-03-27
+SH-W890-L,Women's Mountain Shorts- L,Clothing,Shorts,Mountain,No,26.0,2021-02-12
+SH-W890-M,Women's Mountain Shorts- M,Clothing,Shorts,Mountain,No,26.0,2021-01-05
+SH-W890-S,Women's Mountain Shorts- S,Clothing,Shorts,Mountain,No,26.0,2021-02-24
+SJ-0194-L,Short-Sleeve Classic Jersey- L,Clothing,Jerseys,Other Sales,No,42.0,2021-01-23
+SJ-0194-M,Short-Sleeve Classic Jersey- M,Clothing,Jerseys,Other Sales,No,42.0,2021-01-22
+SJ-0194-S,Short-Sleeve Classic Jersey- S,Clothing,Jerseys,Other Sales,No,42.0,2021-01-14
+SJ-0194-X,Short-Sleeve Classic Jersey- XL,Clothing,Jerseys,Other Sales,No,42.0,2021-01-12
+SO-B909-L,Mountain Bike Socks- L,Clothing,Socks,Mountain,No,3.0,2022-11-27
+SO-B909-M,Mountain Bike Socks- M,Clothing,Socks,Mountain,No,3.0,2021-10-05
+SO-R809-L,Racing Socks- L,Clothing,Socks,Road,No,3.0,2021-01-13
+SO-R809-M,Racing Socks- M,Clothing,Socks,Road,No,3.0,2021-01-13
+ST-1401,All-Purpose Bike Stand,Accessories,Bike Stands,Mountain,No,59.0,2021-01-13
+TG-W091-L,Women's Tights- L,Clothing,Tights,Other Sales,No,31.0,2022-09-19
+TG-W091-M,Women's Tights- M,Clothing,Tights,Other Sales,No,31.0,2021-09-23
+TG-W091-S,Women's Tights- S,Clothing,Tights,Other Sales,No,31.0,2024-07-27
+TI-M267,LL Mountain Tire,Accessories,Tires and Tubes,Mountain,Yes,9.0,2021-01-19
+TI-M602,ML Mountain Tire,Accessories,Tires and Tubes,Mountain,Yes,11.0,2021-01-05
+TI-M823,HL Mountain Tire,Accessories,Tires and Tubes,Mountain,Yes,13.0,2021-01-02
+TI-R092,LL Road Tire,Accessories,Tires and Tubes,Road,Yes,8.0,2021-02-14
+TI-R628,ML Road Tire,Accessories,Tires and Tubes,Road,Yes,9.0,2021-01-23
+TI-R982,HL Road Tire,Accessories,Tires and Tubes,Road,Yes,12.0,2021-01-13
+TI-T723,Touring Tire,Accessories,Tires and Tubes,Touring,Yes,11.0,2021-01-07
+TT-M928,Mountain Tire Tube,Accessories,Tires and Tubes,Mountain,Yes,2.0,2021-01-16
+TT-R982,Road Tire Tube,Accessories,Tires and Tubes,Road,Yes,1.0,2021-02-12
+TT-T092,Touring Tire Tube,Accessories,Tires and Tubes,Touring,Yes,2.0,2021-01-09
+VE-C304-L,Classic Vest- L,Clothing,Vests,Other Sales,No,24.0,2021-01-17
+VE-C304-M,Classic Vest- M,Clothing,Vests,Other Sales,No,24.0,2021-01-08
+VE-C304-S,Classic Vest- S,Clothing,Vests,Other Sales,No,24.0,2021-01-20
+WB-H098,Water Bottle - 30 oz.,Accessories,Bottles and Cages,Other Sales,No,2.0,2021-01-08
